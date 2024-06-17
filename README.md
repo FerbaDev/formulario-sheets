@@ -1,0 +1,5 @@
+url de app web
+https://script.google.com/macros/s/AKfycbwcPCB9U5x2mxhRn5QH595vYJUtzhFynuQvDW_shJwUSsv0PkcigEhDJbOCNUoMQAvq/exec
+
+id de deploy
+AKfycbwcPCB9U5x2mxhRn5QH595vYJUtzhFynuQvDW_shJwUSsv0PkcigEhDJbOCNUoMQAvq
